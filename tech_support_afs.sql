@@ -1,7 +1,7 @@
 ﻿/*****************************************
 * Create the tech_support database
 *****************************************/
-
+USE sma47;
 CREATE TABLE tech_products (
     productCode varchar(10) NOT NULL,
     name varchar(50) NOT NULL,
