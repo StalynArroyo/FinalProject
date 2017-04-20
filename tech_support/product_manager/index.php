@@ -1,4 +1,5 @@
-<?php
+<?php 
+include 'view/header.php';
 require('../model/database.php');
 // require('../model/product_db.php');
 
