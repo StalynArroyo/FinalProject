@@ -15,7 +15,7 @@
     <p>Sports management software for the sports enthusiast</p>
     <nav>
         <ul>
-            <li><a href="/~sma47/IS218102/FinalProject/tech_support/index.php">Home</a></li>
+            <li><a href="/~sma47/IS218102/FinalProject/tech_support/">Home</a></li>
         </ul>
     </nav>
 </header>
